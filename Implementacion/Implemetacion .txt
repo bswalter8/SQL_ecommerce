@@ -1,0 +1,15 @@
+ Pasos a seguir para la instalación correcta de la base de datos:
+
+1_ Abrir TABLES y ejecutar el código.
+2_ Abrir FUNCTIONS y ejecutar el código.
+3_ Abrir INSERTS y ejecutar el código.
+4_ Abrir VIEWS y ejecutar el código.
+5_ Abrir SPs y ejecutar el código.
+6_ Abrir TRIGGER y ejecutar el código.
+7_ Abrir TCL y ejecutar el código.
+8_ Abrir DCL y ejecutar el código.
+
+En caso necesario ejecutar el siguiente script donde se tiene el respaldo de la base de datos:
+
+9_ Abrir BackUp y ejecutar el código.
+
